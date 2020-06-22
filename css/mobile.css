@@ -8,19 +8,41 @@
 }
 
 .testimonials-header {
-  font-size: 30px;
-  color: #2926C3;
+  font-size: 20px;
+  font-weight: bold
 }
 
 .testimonials-body {
   font-size: 1rem;
-  line-height: 30px;
+  line-height: 1.8;
 }
 
 .testimonials-footer {
-  font-weight: 800;
-  font-size: 19px;
-  line-height: 26px;
+  font-size: 16px;
 }
 
 /* Footer */
+.footer .brands,
+.footer .com-soc {
+  border-bottom: 1px solid #C9C8C8;
+}
+
+.footer .shop-go {
+  font-size: 25px;
+}
+
+.footer .trusted-brands {
+  font-size: 20px;
+}
+
+.footer .brands {
+  font-size: 18px;
+}
+
+.footer ul li {
+  font-size: 0.85rem
+}
+
+
+
+
