@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+/* Utilities */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit
+}
+
+ul {
+  list-style: none
+}
+
+
+/* header */
+.line {
+  width: 27px;
+  height: 2px;
+  margin: 3px 0;
+  background: #2926c3;
+  border-radius: 5px
+}
+
+header .large {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #2926c3
+}
+
+header .container>a {
+  color: inherit
+}
+
+header .container img {
+  width: 25px
+}
+
+header .search input,
+header .search button {
+  height: 30px
+}
+
+header .search input {
+  border: 1px solid #7876df;
+  border-radius: 5px;
+  padding: 0 5px
+}
+
+header .search button {
+  background: #2926C4;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.14);
+  border-radius: 5px;
+  padding: 0 1rem;
+  border: none;
+  color: #fff
+}
+
+.search-div {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+/* Cistomers Saying */
+.customers-saying img {
+  width: 200px
+}
+
+/* Testimonials */
+.testimonial {
+  padding: 0 3rem;
+}
+
+.testimonials-header {
+  font-size: 30px;
+  color: #2926C3;
+}
+
+.testimonials-body {
+  font-size: 19px;
+  line-height: 30px;
+}
+
+.testimonials-footer {
+  font-weight: 800;
+  font-size: 19px;
+  line-height: 26px;
+}
+
+.testimonials-footer img {
+  border-radius: 50%;
+  margin-right: 1rem
+}
+
+.testimonials-footer span {
+  color: #2926C4;
+  font-weight: 800;
+}
+
+/* Footer */
+.footer {
+  background: #3655B3;
+  color: #fff;
+}
+
+.footer .container {
+  padding: 2rem 0
+}
+
+.footer .brands,
+.footer .com-soc {
+  border-bottom: 1px solid #C9C8C8;
+}
+
+.footer .shop-go {
+  font-weight: 800;
+  font-size: 30px;
+  color: #C9C8C8;
+}
+
+.footer .trusted-brands {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.footer .brands {
+  font-family: 'Nova Square', cursive;
+  color: #C9C8C8;
+  font-size: 25px;
+}
+
+.footer ul li {
+  font-size: 0.8rem
+}
+
+.footer ul li:first-child {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 10px
+}
+
+.footer-form {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.footer-form input {
+  border-radius: 10px 0 0 10px;
+  border: none;
+  height: 30px;
+  font-size: 0.7rem;
+  padding: 0 10px
+}
+
+.footer-form button {
+  height: 30px;
+  border-radius: 0 10px 10px 0;
+  border: none;
+  font-size: 0.7rem;
+  color: #fff;
+  padding: 0 1.7rem;
+  background: #53E265
+}

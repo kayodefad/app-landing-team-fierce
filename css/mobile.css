@@ -1,0 +1,26 @@
+.customers-saying img {
+  width: 90%
+}
+
+/* Testimonials */
+.testimonial {
+  padding: 0 1rem;
+}
+
+.testimonials-header {
+  font-size: 30px;
+  color: #2926C3;
+}
+
+.testimonials-body {
+  font-size: 1rem;
+  line-height: 30px;
+}
+
+.testimonials-footer {
+  font-weight: 800;
+  font-size: 19px;
+  line-height: 26px;
+}
+
+/* Footer */
