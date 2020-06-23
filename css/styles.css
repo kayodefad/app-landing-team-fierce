@@ -33,6 +33,9 @@ ul {
   border-radius: 5px
 }
 
+header {
+  background: #fff
+}
 header .large {
   height: 80px;
   display: flex;
@@ -90,6 +93,7 @@ header .search button {
 .testimonials-header {
   font-size: 30px;
   color: #2926C3;
+  font-weight: bold
 }
 
 .testimonials-body {
