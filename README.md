@@ -2,6 +2,8 @@
 
 This repository contains the app-landing template of `team-fierce` on the envato platform.
 
+##### Main code in shopngo branch https://fierce-pharmed.netlify.app/about.html
+
 ## Contributing
 - Fork this repository. 
 - Clone this repository unto your machine by typing the following into your terminal(command prompt)
