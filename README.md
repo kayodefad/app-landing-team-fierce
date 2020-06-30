@@ -2,6 +2,8 @@
 
 This repository contains the app-landing template of `team-fierce` on the envato platform.
 
+##### Figma link https://www.figma.com/file/3laGkvGgF1LTHnTAHvhNV2/SHOP-AND-GO-TESTIMONIAL?node-id=0%3A1
+
 ##### Main code in shopngo branch https://shopandgo.netlify.app/testimonials.html
 
 ## Contributing
