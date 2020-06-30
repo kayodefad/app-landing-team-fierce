@@ -2,7 +2,7 @@
 
 This repository contains the app-landing template of `team-fierce` on the envato platform.
 
-##### Main code in shopngo branch https://fierce-pharmed.netlify.app/about.html
+##### Main code in shopngo branch https://shopandgo.netlify.app/testimonials.html
 
 ## Contributing
 - Fork this repository. 
